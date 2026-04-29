@@ -108,9 +108,9 @@ It was meant to show:
 
 ## Live Demo
 
-**Live:** https://foundrystudios.vercel.app
+## [Live](https://foundrystudios.vercel.app)
 
-**Repository:** https://github.com/lazarbukejlovic-dotcom/foundry-studios
+## [Repository](https://github.com/lazarbukejlovic/foundrystudios)
 
 ## Author
 

@@ -108,7 +108,7 @@ It was meant to show:
 
 ## Live Demo
 
-**Live:** https://foundry-studios.lovable.app/ 
+**Live:** https://foundrystudios.vercel.app
 
 **Repository:** https://github.com/lazarbukejlovic-dotcom/foundry-studios
 
